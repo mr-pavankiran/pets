@@ -1,0 +1,21 @@
+SQL and Databases © SuperDataScience
+Section 7 - The Challenge
+
+ 
+
+You are a Data Analyst assisting a veterinarian clinic make sense of their
+data. Their data is dispersed across multiple csv files and they need you to
+first upload all of them to database and then perform the following
+analytics:
+
+Extract information on pets names and owner names side-by-side
+
+Find out which pets from this clinic had procedures performed
+
+Match up all procedures performed to their descriptions
+
+Same as above but only or pets from the clinic in question
+
+Extract a table of individual costs (procedure prices) incurred by owners
+of pets from the clinic in question (this table should have owner and
+procedure price side-by-side)
